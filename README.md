@@ -1,4 +1,4 @@
-# Remotion PR Explainer
+# PR Explainer
 
 Turn a GitHub Pull Request into a narrated, animated walkthrough video.
 
